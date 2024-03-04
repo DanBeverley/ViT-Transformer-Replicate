@@ -1,4 +1,4 @@
-torch
-tqdm
-torchvision
-os
+!pip install torch
+!pip install tqdm
+!pip install torchvision
+!pip install os
